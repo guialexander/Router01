@@ -9,8 +9,8 @@ import './stylesrouter.css'
 export const Routerprincipal = () => {
   return (
    <>
-    <h1>Cabecera</h1>
-        <hr />
+    
+       
         <nav>
           <ul>
             <li >
